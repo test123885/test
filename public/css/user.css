@@ -1,0 +1,95 @@
+.product-sales-chart, .analytics-info-cs, .tranffic-als-inner, .analytics-rounded, .single-new-trend, .personal-info-wrap, .author-widgets-single, .calender-inner, .product-status-wrap, .review-tab-pro-inner, .income-dashone-total, .analytics-nalika-wrap, .analytics-sparkle-line, .analysis-progrebar, .sparkline8-list, .sparkline9-list, .sparkline7-list, .sparkline10-list, .sparkline12-list, .sparkline13-list, .sparkline14-list, .sparkline13-list, .sparkline11-list, .x-editable-list, .code-editor-single, .blog-details-inner, .charts-single-pro, .about-sparkline, .sparkline-list, .button-ad-wrap, .tab-content-details, .sparkline16-list, .sparkline15-list, .tinymce-single{
+	padding:20px;
+	background:#E5E7EB;
+}
+.product-status-wrap h4 {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.product-status-wrap table {
+    width: 100%;
+}
+.product-status-wrap table th {
+    padding: 1px ;
+    vertical-align: top;
+ }
+.product-status-wrap table th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #152036;
+	color:black;
+    
+}
+.product-status-wrap th, .product-status-wrap td {
+    padding: 5px;
+    text-align: left;
+    font-size: 14px;
+}
+.product-status-wrap table td {
+    padding: 9px 7px;
+    border-top: 1px solid #152036;
+	color:black;
+	font-size:14px;
+}
+.product-status-wrap img {
+    width: 60px;
+}
+.product-status-wrap .pd-setting {
+    border: none;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 15px;
+    background: #24caa1;
+    border-radius: 3px;
+}
+.product-status-wrap .ps-setting {
+    border: none;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 15px;
+    background: #2eb7f3;
+    border-radius: 3px;
+}
+.product-status-wrap .ds-setting {
+    border: none;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 15px;
+    background: #eb4b4b;
+    border-radius: 3px;
+}
+.product-status-wrap.border-pdt-ct p{
+	font-size:14px;
+	color:#fff;
+}
+.product-list-cart .product-status-wrap{
+	border: 0px solid rgba(0,0,0,.12);
+	padding:0px;
+}
+.product-list-cart .product-status-wrap table th{
+	border: 0px solid rgba(0,0,0,.12);
+}
+.product-status-wrap.border-pdt-ct{
+	box-shadow:none;
+}
+.add-product a {
+    float: right;
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    background: #152036;
+    padding: 6px 20px;
+    color: #fff;
+    border-radius: 4px;
+}
+.sales-report-stn-his button.product-btn-history, button.pd-setting-ed {
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,.12);
+    background: #152036;
+}
+button.pd-setting-ed {
+    display: inline-block;
+    margin-right: 5px;
+}
